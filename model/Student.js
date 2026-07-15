@@ -1,6 +1,5 @@
 import mongoose from "mongoose";
 
-//creatae database entity
 const studentSchema = new mongoose.Schema(
     {   
         studentID : {
